@@ -1,0 +1,6 @@
+Dhaka +8875886 Dhaka@govt.bd.com Dhaka_Bangladesh
+Shyllet +8810616 sh@bd.com Shyllet_Bangladesh
+Khulna +8810606 kh@bd.com Khulna_Bangladesh
+Chittagong +8810602 ch@bd.com Chittagong_Bangladesh
+Cox_Bazer +8810615 cxb@bd.com Cox_Bazer_Bangladesh
+Rajshahi +8810666 rj@bd.com Rajshahi_Bangladesh
